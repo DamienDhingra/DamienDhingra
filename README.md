@@ -1,4 +1,12 @@
-### Damien Dhingra
+# 💻 Damien Dhingra
+
+**`      Developer      `**
+
+Passionate Computer Sceince student @ the University of Washington.
+
+  
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -20,3 +28,13 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+
+### 📺 Latest Projects 
+
+#
+
+
+<details>
+ <summary><h3>👨‍💻 Damien's Coding Journey</h3></summary>
+   Like half the people you have probably talked to, my coding journey began when I was 8 years old. I attended Tesla Stem High School to sharpen my skills and now I am a student @ The University Of Washington learning Computer Science. I want to further my skills in the LLM field and am currently on that path.
