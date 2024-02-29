@@ -2,7 +2,7 @@
 
 **`      Developer      `**
 
-Passionate Computer Science student @ the University of Washington.
+Computer Science student @ the University of Washington.
 
   
 
